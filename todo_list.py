@@ -2,8 +2,6 @@
 import os
 
 FILE_NAME = "tasks.txt"
-
-
 class TodoList:
     def __init__(self):
         self.tasks = []

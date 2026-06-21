@@ -1,4 +1,4 @@
-# Smart Calculator with History
+# Smart Calculator with History using Python
 
 history = []
 
